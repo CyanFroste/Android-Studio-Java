@@ -24,18 +24,17 @@ public class MainActivity extends AppCompatActivity {
     public void onClick(View v){
         Button = (Button)findViewById(R.id.button);
         AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
-        builder.setMessage("Exit?").setCancelable(false).setPositiveButton(
-                "Yes", new DialogInterface.OnClickListener() {
+        builder.setMessage("Exit?").setCancelable(false).setPositiveButton("Yes", new DialogInterface.OnClickListener(){
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         finish();
                     }
-                }).setNegativeButton("No", new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.cancel();
-            }
-         });
+                }).setNegativeButton("No", new DialogInterface.OnClickListener(){
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+                            dialog.cancel();
+                        }
+                });
         AlertDialog alert = builder.create();
         alert.setTitle("Alert");
         alert.show();
