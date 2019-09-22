@@ -7,3 +7,4 @@ Android app development using android studio and Java
 - [Radio Buttons](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Radio%20Group%2C%20Radio%20Buttons%20and%20Toasting%20the%20Selection.md)
 - [Rating Bar](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Rating%20Bar.md)
 - [Alert, Dialog and Exit Activity](https://github.com/CyanFroste/Android-Studio-Java/blob/master/An%20Exit%20Alert%20with%20a%20Dialog.md)
+- [Simple Login](https://github.com/CyanFroste/Android-Studio-Java/blob/master/A%20Simple%20Log%20In%20Activity.md)
