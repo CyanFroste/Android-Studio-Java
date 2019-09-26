@@ -9,3 +9,8 @@ Android app development using android studio and Java
 - [Alert, Dialog and Exit Activity](https://github.com/CyanFroste/Android-Studio-Java/blob/master/An%20Exit%20Alert%20with%20a%20Dialog.md)
 - [Intent - Create and Call New Activity](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Creating%20New%20Activity%20and%20calling%20it%20from%20Main%20Activity.md)
 - [Simple Login](https://github.com/CyanFroste/Android-Studio-Java/blob/master/A%20Simple%20Log%20In%20Activity.md)
+- [List view](https://github.com/CyanFroste/Android-Studio-Java/blob/master/List%20view.md)
+- [Seek bar](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Seek%20Bar.md)
+- [Web view](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Web%20view.md)
+- [Gestures - Displaying Gesture event details on each Gesture](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Gestures%20and%20displaying%20what%20gesture%20is%20done.md)
+- [Fragments](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Fragments.md)
