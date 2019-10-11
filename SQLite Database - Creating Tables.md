@@ -1,6 +1,6 @@
 ### THE JAVA CODE
 
-![Creating a new Java Class - DatabaseHelper]()
+![Creating a new Java Class - DatabaseHelper](https://github.com/CyanFroste/Android-Studio-Java/blob/master/img/new-java-class.png)
 
 
 - DatabaseHelper.java
