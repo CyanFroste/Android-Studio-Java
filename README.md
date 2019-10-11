@@ -14,3 +14,10 @@ Android app development using android studio and Java
 - [Web view](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Web%20view.md)
 - [Gestures - Displaying Gesture event details on each Gesture](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Gestures%20and%20displaying%20what%20gesture%20is%20done.md)
 - [Fragments](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Fragments.md)
+- [Auto Complete Textview](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Autocomplete%20Textview.md)
+- [Notifications](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Notifications.md)
+
+SQLite
+
+- [Creating Tables](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Creating%20Tables.md)
+- [Inserting Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Inserting%20Values.md)
