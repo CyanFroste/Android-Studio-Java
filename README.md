@@ -16,7 +16,6 @@ Android app development using android studio and Java
 - [Fragments](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Fragments.md)
 - [Auto Complete Textview](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Autocomplete%20Textview.md)
 - [Notifications](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Notifications.md)
-
 - SQLite
   - [Creating Tables](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Creating%20Tables.md)
   - [Inserting Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Inserting%20Values.md)
