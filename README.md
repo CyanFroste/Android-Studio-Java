@@ -1,5 +1,5 @@
 # Android-Studio
-Android app development using android studio and Java
+### Android app development using android studio and Java
 
 - [Simple Add](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Simple%20Add%20Application.md)
 - [Toasting content of a Password field](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Typing%20in%20a%20Password%20and%20Toasting%20it%20on%20Button%20Click.md)
@@ -16,7 +16,7 @@ Android app development using android studio and Java
 - [Fragments](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Fragments.md)
 - [Auto Complete Textview](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Autocomplete%20Textview.md)
 - [Notifications](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Notifications.md)
-- SQLite
+- ###  SQLite
   - [Creating Tables](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Creating%20Tables.md)
   - [Inserting Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Inserting%20Values.md)
   - [Displaying Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Displaying%20Data.md)
