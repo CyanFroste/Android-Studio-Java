@@ -19,3 +19,6 @@ Android app development using android studio and Java
 - SQLite
   - [Creating Tables](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Creating%20Tables.md)
   - [Inserting Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Inserting%20Values.md)
+  - [Displaying Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Displaying%20Data.md)
+  - [Updating Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Updating%20Values.md)
+  - [Deleting Rows](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite%20Database%20-%20Deleting%20Rows.md)
