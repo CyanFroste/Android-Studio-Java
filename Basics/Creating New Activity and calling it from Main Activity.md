@@ -1,4 +1,4 @@
-![How-To](https://github.com/CyanFroste/Android-Studio-Java/blob/master/img/new-activity.png)
+![How-To](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Images/new-activity.png)
 
 ### THE JAVA CODE
 ```
