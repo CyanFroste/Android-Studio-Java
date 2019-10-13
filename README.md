@@ -22,3 +22,5 @@ Android app development using android studio and Java
   - [Displaying Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Displaying%20Data.md)
   - [Updating Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Updating%20Values.md)
   - [Deleting Rows](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Deleting%20Rows.md)
+- ### Advanced
+  - [Action Bar](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Action%20Bar.md)
