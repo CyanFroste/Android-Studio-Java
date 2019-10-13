@@ -1,4 +1,4 @@
-![Create New Fragments under layouts](https://github.com/CyanFroste/Android-Studio-Java/blob/master/img/new-fragment.png)
+![Create New Fragments under layouts](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Images/new-fragment.png)
 
 ### THE JAVA CODE
 ```
