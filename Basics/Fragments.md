@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-XML
+### XML
 
 Add the xml code to the main_activity.xml file
 ```
