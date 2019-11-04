@@ -1,6 +1,6 @@
 # Android-Studio
 Android app development using android studio and Java
-- ### Basics
+ ### Basics
   - [Simple Add](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Basics/Simple%20Add%20Application.md)
   - [Toasting content of a Password field](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Basics/Typing%20in%20a%20Password%20and%20Toasting%20it%20on%20Button%20Click.md)
   - [Checkboxes](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Basics/Checkbox%20%20and%20Toasting%20the%20Selection.md)
@@ -16,13 +16,13 @@ Android app development using android studio and Java
   - [Fragments](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Basics/Fragments.md)
   - [Auto Complete Textview](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Basics/Autocomplete%20Textview.md)
   - [Notifications](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Basics/Notifications.md)
-- ###  SQLite
+ ###  SQLite
   - [Creating Tables](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Creating%20Tables.md)
   - [Inserting Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Inserting%20Values.md)
   - [Displaying Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Displaying%20Data.md)
   - [Updating Values](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Updating%20Values.md)
   - [Deleting Rows](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Deleting%20Rows.md)
-- ### Advanced
+ ### Advanced
   - [Action Bar](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Action%20Bar.md)
   - [Implicit Intent - Calling an Activity from another Application](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Implicit%20Intent%20-%20Calling%20an%20Activity%20from%20another%20app%20.md)
   - [Services - Intro](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Services%20-%20Intro.md)
