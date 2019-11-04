@@ -24,3 +24,9 @@ Android app development using android studio and Java
   - [Deleting Rows](https://github.com/CyanFroste/Android-Studio-Java/blob/master/SQLite/SQLite%20Database%20-%20Deleting%20Rows.md)
 - ### Advanced
   - [Action Bar](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Action%20Bar.md)
+  - [Implicit Intent - Calling an Activity from another Application](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Implicit%20Intent%20-%20Calling%20an%20Activity%20from%20another%20app%20.md)
+  - [Services - Intro](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Services%20-%20Intro.md)
+  - [Services - Thread and Synchronization](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Services%20-%20Starting%20in%20a%20new%20thread%20and%20Synchronization.md)
+  - [Services - using intentService](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Services%20-%20using%20IntentService.md)
+  - [Services - Bound Services and RNG](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Bound%20Services%20and%20Random%20Number%20Generator.md)
+  - [Read/Write Files](https://github.com/CyanFroste/Android-Studio-Java/blob/master/Advanced/Read%20and%20Write%20Files.md)
